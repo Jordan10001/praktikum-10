@@ -15,6 +15,5 @@ public class Soal3_c14240117 {
         } else {
             System.out.println("Bukan Anagram");
         }
-
     }
 }
